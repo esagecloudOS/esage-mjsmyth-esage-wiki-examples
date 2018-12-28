@@ -1,0 +1,14 @@
+{
+	"wikiUrl" : "http://URL:port",
+	"spaceKey" : "MSK",
+	"parentTitle" : "APIExamples",
+	"user" : "myuser",
+	"password" : "mypassword",
+	"rawLog" : "requests.log",
+	"subdir" : "testfiles",
+	"adminSubdir" : "admin",
+	"template": "example.mustache",
+	"MTversion" : "3.3",
+	"overwriteFiles" : "y",
+	"writeWikiPages" : "y"
+}
